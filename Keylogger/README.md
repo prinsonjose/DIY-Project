@@ -24,7 +24,7 @@ This project is a lightweight keylogger application that captures and logs all k
 
 | Technology | Purpose |
 |-----------|---------|
-| Python 3 | Core programming language |
+| Python 3.14 | Core programming language |
 | pynput | OS-level keyboard event listener |
 | Tkinter | GUI window and button interface |
 | JSON | Structured log storage |
@@ -46,12 +46,12 @@ keylogger/
 ## ⚙️ Installation
 
 ### Prerequisites
-- Python 3.x installed on your system
+- Python 3.14 installed on your system
 - pip package manager
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/yourusername/keylogger.git
+git clone https://github.com/prinsonjose/DIY-Project/tree/39860f748f9d2b136d34f00ac653ffa34dde8b63/Keylogger
 cd keylogger
 ```
 
