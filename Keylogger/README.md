@@ -38,8 +38,6 @@ This project is a lightweight keylogger application that captures and logs all k
 keylogger/
 │
 ├── keylogger.py       # Main application file
-├── log.json           # Structured keystroke log (auto-generated)
-├── logs.txt           # Plain text keystroke log (auto-generated)
 └── README.md          # Project documentation
 ```
 
@@ -144,20 +142,6 @@ Key.shift'h''e''l''l''o'
 - Ethical hacking and penetration testing (authorized environments only)
 - Understanding input event handling in Python
 - Demonstrating the importance of endpoint security
-
----
-
-## 👨‍💻 Author
-
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
